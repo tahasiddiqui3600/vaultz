@@ -10,7 +10,7 @@ This hadith establishes the **Bay' al-Sarf** principle — currency exchange mus
 - ✅ Equal in value (or market rate)
 - ✅ **Hand to hand** (immediate, on the spot)
 - ✅ No delay in settlement
-
+...
 Standard Forex trading often violates the **"hand to hand"** condition because positions are held open for days or weeks.
 
 ---
